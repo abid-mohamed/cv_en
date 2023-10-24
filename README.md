@@ -2,10 +2,10 @@
 
 ## Skills :
 
-|             R             |         Python         |             SQL             |         NetLogo         |      MSSQL Server      |
-|           JSON           |         Neo4j         |            MatLab            |          Maple          |    Machine Learning    |
+|             R             |         Python         |             SQL             |         NetLogo         |      MSSQL Server      |<br />
+|           JSON           |         Neo4j         |            MatLab            |          Maple          |    Machine Learning    |<br />
 | Time Series Analysis | Survival Analysis | Probability Statistics | Data Visualization | Data Manipulation |
 
 ## Projects
 
-### Project #3
+### Project #0
