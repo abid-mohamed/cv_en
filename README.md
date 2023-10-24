@@ -2,7 +2,7 @@
 
 ## Skills :
 
-| R		| Python  	| SQL	| NetLogo	| MSSQL Server 	|
+| R		|. Python  	| SQL	| NetLogo	| MSSQL Server 	|
 
 | JSON	| Neo4j	| MatLab	| Maple		| Machine Learning	|
 
