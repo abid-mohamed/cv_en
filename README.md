@@ -9,8 +9,12 @@
 **R**&emsp;&emsp;&emsp;&emsp;**JSON**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Ensemble Model**&emsp;&emsp;&emsp;&emsp;**Survival Analysis** <br/>
 **Python** &emsp;**Neo4j**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Machine Learning**&emsp;&emsp;&emsp;**Data Visualization** <br/>
 **SQL**&emsp;&emsp;&emsp;**MatLab**&emsp;&emsp;&emsp;&emsp;&emsp;**Time Series Analysis**&emsp;&emsp;**Data Manipulation** <br/>
-**NetLogo**&emsp;**MSSQL Server**&emsp;**Probability Statistics**&emsp;&emsp;**Maple** <br/>
+**NetLogo**&emsp;**MSSQL Server**&emsp;**Probability Statistics**&emsp;&emsp;**Data Cleaning** <br/>
 
+**R**&emsp;&emsp;&emsp;&emsp; **JSON**&emsp;&emsp;&emsp;&emsp; &emsp; **Ensemble Model**&emsp;&emsp;&emsp;&emsp;**Survival Analysis** <br/>
+**Python** &emsp; **Neo4j**&emsp;&emsp;&emsp;&emsp;&emsp; **Machine Learning**&emsp;&emsp; &emsp; **Data Visualization** <br/>
+**SQL**&emsp;&emsp;&emsp;**MatLab**&emsp;&emsp;&emsp; &emsp; **Time Series Analysis**&emsp;&emsp;**Data Manipulation** <br/>
+**NetLogo**&emsp;**MSSQL Server**&emsp;**Probability Statistics**&emsp;&emsp;**Data Cleaning** <br/>
 
 # INTERNSHIP
 
