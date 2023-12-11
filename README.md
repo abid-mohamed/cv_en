@@ -1,14 +1,12 @@
-# Data Scientist
-
-## SKILLS
+# SKILLS
 
 |   R                       |   Python              |   SQL                     |   NetLogo             |   MSSQL Server        |<br/>
 |   JSON                    |   Neo4j               |   MatLab                  |   Ensemble Model      |   Machine Learning    |<br/>
 |   Time Series Analysis    |   Survival Analysis   |   Probability Statistics  |   Data Visualization  |   Data Manipulation   |
 
-## INTERNSHIP
+# INTERNSHIP
 
-### King Abdullah University of Science and Technology (KAUST) - Data Scientist
+## King Abdullah University of Science and Technology (KAUST) - Data Scientist
 _12/2022 - 05/2023_
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. Utilized **R** and key packages such as $\texttt{terra}$, $\texttt{raster}$, and $\texttt{h2o}$ for data processing, exploratory data analysis, and ensemble modeling. <br/>
@@ -24,4 +22,4 @@ Conducted a comprehensive analysis of a raster-based dataset encompassing spatio
 
 
 
-### Project #0
+# PROJECTS
