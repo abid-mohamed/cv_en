@@ -9,7 +9,7 @@
 
 # INTERNSHIP
 
-## King Abdullah University of Science and Technology (KAUST) - Data Scientist
+## King Abdullah University of Science and Technology (KAUST) <br/> Data Scientist
 **_12/2022 - 05/2023_**
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
@@ -30,7 +30,7 @@ Utilized **R** and key packages such as `terra`, `raster`, and `h2o` for data pr
 
 # PROJECTS
 
-## Electricity Consumption Forecasting _(Time Series Analysis)_
+## Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
 
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
