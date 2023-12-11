@@ -32,6 +32,8 @@ Utilized **R** and key packages such as `terra`, `raster`, and `h2o` for data pr
 
 ## Electricity Consumption Forecasting _(Time Series Analysis)_
 
+[*:point_right: GitHub Link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis) 
+
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
  ■	**Temperature-Agnostic Model:** Utilized **HoltWinters**, **Auto ARIMA**, **SARIMA**, and **NNET** to forecast electricity consumption, disregarding outdoor temperature. Model selection based on RMSE.<br/>
