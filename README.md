@@ -49,15 +49,36 @@ The objective of this project was to assess the influence of covariate variables
 **Datasets:**
 - Data1: <br/>
   - Comprises 12 observations of the response variable and 2 categorical covariates.<br/>
-  - Variable Selection Methods: ANOVA, Step-wise Forward, Step-wise Backward, Lasso.<br/>
-  - Applied lm function to determine weights for selected variables.<br/>
+  - Variable Selection Methods: **ANOVA**, **Step-wise Forward**, **Step-wise Backward**, **Lasso**.<br/>
+  - Applied **lm** function to determine weights for selected variables.<br/>
 - Data2:<br/>
   - Consists of 16 observations of the response variable and 4 continuous covariates.<br/>
-  - Mitigated small dataset issues using Bagging to reduce variance error.<br/>
-  - Variable Selection Methods: Adjusted R-squared, Step-wise Forward, Step-wise Backward, Lasso, Variable Selection Using Random Forests (VSURF).<br/>
+  - Mitigated small dataset issues using **Bagging** to reduce variance error.<br/>
+  - Variable Selection Methods: **Adjusted R-squared**, **Step-wise Forward**, **Step-wise Backward**, **Lasso**, Variable Selection Using Random Forests (**VSURF**).<br/>
   - Calculated associated errors for each selection method.<br/>
-  - Identified the best model by averaging coefficients from the lowest error procedures.
+  - Identified the **best model by averaging coefficients** from the lowest error procedures.
 
-**Tools:** Executed the project using R and employed various packages, including glmnet, MASS, leaps, VSURF, ggplot2, ggpubr, and dplyr.
+**Tools:** Executed the project using **R** and employed various packages, including ***glmnet***, ***MASS***, ***leaps***, ***VSURF***, ***ggplot2***, ***ggpubr***, and ***dplyr***.
 
-**Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the R programming language.
+**Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
+
+### Database Synchronization using Python and *pyodbc* <br/> _Data Wrangling with SQL_
+
+This project involves creating a **Python** script to interact with a database server and retrieve the latest version of a specified table. 
+The script uses the ***pyodbc*** package for secure connections to an **MSSQL Server** and communicates with the database by executing queries.
+
+**Key Steps:**
+- ***pyodbc* Connection:** Establishes a secure connection to the database server using the ***pyodbc*** package.
+- **Query Execution:** Communicates with the database by sending and executing queries to extract the necessary data.
+- **Local Comparison:** Compares the database table with the last saved version on the hard drive to detect any changes.
+- **Dynamic View Update:** Generates an updated table view only if modifications are identified during the comparison.
+
+This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
+
+### Data Retrieval from MSSQL Server <br/> _Data Wrangling with SQL_
+
+This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
+
+**Key Features:**
+- **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
+- **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
