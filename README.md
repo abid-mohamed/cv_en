@@ -17,7 +17,7 @@ Utilized **R** and key packages such as `terra`, `raster`, and `h2o` for data pr
 
 **Key Contributions:** 
 
- ■	**Exploratory Data Analysis:** Conducted exploratory analysis on a high-resolution dataset (500m) with ten variables, capturing factors related to fires, land use, environment, and climate. <br/> 
+> ■	**Exploratory Data Analysis:** Conducted exploratory analysis on a high-resolution dataset (500m) with ten variables, capturing factors related to fires, land use, environment, and climate. <br/> 
  ■	**Class Imbalance and Missing Data:** Addressed class imbalance and missing data challenges, significantly improving model performance. <br/>
  ■	**Data Downsampling:** Implemented a down-sampling approach, reducing the dataset to 550 million observations, and dividing it into 11 zones for improved efficiency.<br/>
  ■	**Machine Learning Models:** Developed and evaluated machine learning models such as Distributed Random Forest (**DRF**), Generalized Linear Models (**GLM**), Gradient Boosting Machines (**GBM**), and eXtreme Gradient Boosting (**XGB**). <br/>
