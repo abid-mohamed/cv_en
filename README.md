@@ -88,8 +88,8 @@ This project focuses on extracting five types of information from a large **MSSQ
 Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
 
 **Simulation Features:**
-  - Implemented a light source emitting photons with random directions, simulating barrier hits, surface reflections, and particle collisions.
-  - Explored four water types (“Pure-Sea”, “Clear-Ocean”, “Coastal”, and “Turbid-Harbor”) with distinct absorption and scattering coefficients.
+  - Implemented a light source emitting photons with random directions, simulating **barrier hits**, **surface reflections**, and **particle collisions**.
+  - Explored **four water types** (“Pure-Sea”, “Clear-Ocean”, “Coastal”, and “Turbid-Harbor”) with distinct absorption and scattering coefficients.
 
 **User Interface:** 
   - Designed an intuitive interface for water type selection, photon count adjustment, and photo-detector positioning.
@@ -97,4 +97,12 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **Parameter Exploration:** Enabled experimentation through sliders for adjusting parameters like beamwidth and photo-detector position.
 
-**Tools:** Implemented using NetLogo programming language for an interactive and accessible user experience.
+**Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
+
+## Multivariate unimodular polynomial matrix completion <br/> _Applied Mathematics_
+
+The project focuses on solving a set of multinomial equations utilizing the multivariate unimodular polynomial matrix completion, specifically employing the **Lombardi-Yengui algorithm**. The applications extend to addressing signal processing problems.
+
+**Algorithmic Approach:** Central to the algorithm is the identification of a **“Gröbner basis”**, a crucial step in simplifying the problem and transforming it into a one-variable polynomial solution.
+
+**Tools:** Implemented the project using **Maple**.
