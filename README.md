@@ -62,7 +62,7 @@ The objective of this project was to assess the influence of covariate variables
 
 **Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
 
-## Database Synchronization using Python and *pyodbc* <br/> _Data Wrangling with SQL_
+## Database Synchronization using Python and *pyodbc* <br/> _(Data Wrangling with SQL)_
 
 This project involves creating a **Python** script to interact with a database server and retrieve the latest version of a specified table. 
 The script uses the ***pyodbc*** package for secure connections to an **MSSQL Server** and communicates with the database by executing queries.
@@ -75,7 +75,7 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
-## Data Retrieval from MSSQL Server <br/> _Data Wrangling with SQL_
+## Data Retrieval from MSSQL Server <br/> _(Data Wrangling with SQL)_
 
 This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
 
@@ -83,7 +83,7 @@ This project focuses on extracting five types of information from a large **MSSQ
 - **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
 
-## Photon Propagation Simulation <br/> _Agent Base Modeling_
+## Photon Propagation Simulation <br/> _(Agent Base Modeling)_
 
 Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
 
@@ -99,7 +99,7 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
 
-## Multivariate unimodular polynomial matrix completion <br/> _Applied Mathematics_
+## Multivariate unimodular polynomial matrix completion <br/> _(Applied Mathematics)_
 
 The project focuses on solving a set of multinomial equations utilizing the multivariate unimodular polynomial matrix completion, specifically employing the **Lombardi-Yengui algorithm**. The applications extend to addressing signal processing problems.
 
