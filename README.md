@@ -21,9 +21,7 @@ Conducted a comprehensive analysis of a raster-based dataset encompassing spatio
  ■	**Visualization:** Visualized the results through dynamic monthly maps and time trend charts, providing insights into fire probabilities in the Amazon over the 20-year period. <br/>
 **Tools:** Executed the project using R and employed various packages, including $\texttt{terra}$, $\texttt{raster}$, $\texttt{h2o}$, $\texttt{rsample}$, $\texttt{recipes}$, $\texttt{data.table}$, $\texttt{tidyverse}$, $\texttt{pROC}$, $\texttt{doParallel}$, $\texttt{doSNOW}$, $\texttt{ggplot2}$, $\texttt{tidyterra}$. <br/>
 
-H~2~O
 
-X^2^
 
 
 ### Project #0
