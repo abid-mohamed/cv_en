@@ -2,10 +2,10 @@
 
 # SKILLS
 
-|   **R**       |   **JSON**        |   **Ensemble Model**          |   **Survival Analysis** <br/>
-|   **Python**  |   **Neo4j**       |   **Machine Learning**        |   **Data Visualization** <br/>
-|   **SQL**     |   **MatLab**      |   **Time Series Analysis**    |   **Data Manipulation** <br/>
-|   **NetLogo** |   **MSSQL Server**|   **Probability Statistics**  |   **Data Cleaning** <br/>
+|&emsp;**R**&emsp;&emsp;&emsp;&emsp;|&emsp;**JSON**&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;**Ensemble Model**&emsp;&emsp;&emsp;&emsp;|&emsp;**Survival Analysis** <br/>
+|&emsp;**Python**&emsp;|&emsp;**Neo4j**&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;**Machine Learning**&emsp;&emsp;&emsp;|&emsp;**Data Visualization** <br/>
+|&emsp;**SQL**&emsp;&emsp;&emsp;|&emsp;**MatLab**&emsp;&emsp;&emsp;&emsp;|&emsp;**Time Series Analysis**&emsp;&emsp;|&emsp;**Data Manipulation** <br/>
+|&emsp;**NetLogo**&emsp;|&emsp;**MSSQL Server**&emsp;|&emsp;**Probability Statistics**&emsp;|&emsp;**Data Cleaning** <br/>
 
 # INTERNSHIP
 
