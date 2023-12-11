@@ -42,4 +42,4 @@ Developed predictive models for daily “electricity consumption” in a buildin
 **Outcome:** Applied selected models to forecast “electricity consumption” using the entire dataset, showcasing the impact of temperature information on predictive accuracy
 
 > [!NOTE]
-> For more details [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
+> For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
