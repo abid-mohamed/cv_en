@@ -15,7 +15,7 @@
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
 Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o*** for data processing, exploratory data analysis, and ensemble modeling.
 
-**Key Contributions:** <br/>
+**Key Contributions:** 
 - **Exploratory Data Analysis:** Conducted exploratory analysis on a high-resolution dataset (500m) with ten variables, capturing factors related to fires, land use, environment, and climate. <br/> 
 - **Class Imbalance and Missing Data:** Addressed class imbalance and missing data challenges, significantly improving model performance. <br/>
 - **Data Downsampling:** Implemented a down-sampling approach, reducing the dataset to 550 million observations, and dividing it into 11 zones for improved efficiency.<br/>
@@ -46,7 +46,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
 
-**Datasets:**<br/>
+**Datasets:**
 - Data1: <br/>
   - Comprises 12 observations of the response variable and 2 categorical covariates.<br/>
   - Variable Selection Methods: ANOVA, Step-wise Forward, Step-wise Backward, Lasso.<br/>
