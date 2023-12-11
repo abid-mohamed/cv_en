@@ -13,7 +13,7 @@
 **_12/2022 - 05/2023_**
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
-Utilized **R** and key packages such as `terra`, `raster`, and `h2o` for data processing, exploratory data analysis, and ensemble modeling.
+Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o*** for data processing, exploratory data analysis, and ensemble modeling.
 
 **Key Contributions:** 
 
@@ -26,7 +26,7 @@ Utilized **R** and key packages such as `terra`, `raster`, and `h2o` for data pr
  ■	**Ensemble Modeling:** Created an ensemble model by combining the strengths of individual models within each zone, enhancing predictive accuracy, leveraging **AUC** and **AUCPR** metrics. <br/>
  ■	**Visualization:** Visualized the results through dynamic monthly maps and time trend charts, providing insights into fire probabilities in the Amazon over the 20-year period. 
 
-**Tools:** Executed the project using **R** and employed various packages, including `terra`, `raster`, `h2o`, `rsample`, `recipes`, `data.table`, `tidyverse`, `pROC`, `doParallel`, `doSNOW`, `ggplot2`, `tidyterra`.
+**Tools:** Executed the project using **R** and employed various packages, including ***terra***, ***raster***, ***h2o***, ***rsample***, ***recipes***, ***data.table***, ***tidyverse***, ***pROC***, ***doParallel***, ***doSNOW***, ***ggplot2***, ***tidyterra***.
 
 # PROJECTS
 
@@ -37,7 +37,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
  ■	**Temperature-Agnostic Model:** Utilized **HoltWinters**, **Auto ARIMA**, **SARIMA**, and **NNET** to forecast electricity consumption, disregarding outdoor temperature. Model selection based on RMSE.<br/>
  ■	**Temperature-Informed Model:** Incorporated the impact of “outdoor air temperature” using time series regression models (**SARIMA**, **Auto ARIMA**, **NNET**, **VAR**). Selected the best-performing model through RMSE evaluation.
 
-**Tools:** Implemented in **R** using `forecast`, `keras`, `vars`, `xts`, `ggplot2`, `openxlsx` packages.
+**Tools:** Implemented in **R** using ***forecast***, ***keras***, ***vars***, ***xts***, ***ggplot2***, ***openxlsx*** packages.
 
 **Outcome:** Applied selected models to forecast “electricity consumption” using the entire dataset, showcasing the impact of temperature information on predictive accuracy
 
