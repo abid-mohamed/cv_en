@@ -2,9 +2,14 @@
 
 # SKILLS
 
-|   R                       |   Python              |   SQL                     |   NetLogo             |   MSSQL Server        |<br/>
-|   JSON                    |   Neo4j               |   MatLab                  |   Ensemble Model      |   Machine Learning    |<br/>
+|   R                       |   Python              |   SQL                     |   NetLogo             |   MSSQL Server        |
+|   JSON                    |   Neo4j               |   MatLab                  |   Ensemble Model      |   Machine Learning    |
 |   Time Series Analysis    |   Survival Analysis   |   Probability Statistics  |   Data Visualization  |   Data Manipulation   |
+
+R &emsp; Python &emsp; SQL &emsp; NetLogo &emsp; MSSQL Server <br/>
+JSON &emsp; Neo4j &emsp; MatLab &emsp; Ensemble Model &emsp; Machine Learning <br/>
+|   Time Series Analysis    |   Survival Analysis   |   Probability Statistics  |   Data Visualization  |   Data Manipulation   |
+
 
 # INTERNSHIP
 
