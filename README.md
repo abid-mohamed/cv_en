@@ -8,4 +8,7 @@
 
 ## INTERNSHIP
 
+### King Abdullah University of Science and Technology (KAUST) - Data Scientist
+_12/2022 - 05/2023_
+
 ### Project #0
