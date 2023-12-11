@@ -1,15 +1,15 @@
 # Mohamed ABID
 
-# SKILLS
+## SKILLS
 
 |&emsp;**R** &emsp;&emsp;&emsp;&emsp;|&emsp;**JSON**&emsp;&emsp;&emsp;&emsp; &emsp; |&emsp;**Ensemble Model**&emsp;&emsp;&emsp;|&emsp;**Survival Analysis** <br/>
 |&emsp;**Python** &emsp; |&emsp;**Neo4j**&emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;**Machine Learning** &emsp; &emsp;|&emsp;**Data Visualization** <br/>
 |&emsp;**SQL**&emsp;&emsp;&emsp;|&emsp;**MatLab** &emsp;&emsp;&emsp;&emsp; |&emsp;**Time Series Analysis**&emsp;|&emsp;**Data Manipulation** <br/>
 |&emsp;**NetLogo**&emsp;|&emsp;**MSSQL Server**&emsp;|&emsp;**Probability Statistics**&emsp;|&emsp;**Data Cleaning** <br/>
 
-# INTERNSHIP
+## INTERNSHIP
 
-## King Abdullah University of Science and Technology (KAUST) <br/> Data Scientist
+### King Abdullah University of Science and Technology (KAUST) <br/> Data Scientist
 **_12/2022 - 05/2023_**
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
@@ -28,9 +28,9 @@ Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o***
 
 **Tools:** Executed the project using **R** and employed various packages, including ***terra***, ***raster***, ***h2o***, ***rsample***, ***recipes***, ***data.table***, ***tidyverse***, ***pROC***, ***doParallel***, ***doSNOW***, ***ggplot2***, ***tidyterra***.
 
-# PROJECTS
+## PROJECTS
 
-## Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
+### Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
 
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
@@ -43,7 +43,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
 
 > **NOTE:** For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
-## Covariate Impact Analysis and Variable Selection <br/> _(Machine Learning)_
+### Covariate Impact Analysis and Variable Selection <br/> _(Machine Learning)_
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
 
