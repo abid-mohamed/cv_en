@@ -1,3 +1,5 @@
+
+
 # SKILLS
 
 |   R                       |   Python              |   SQL                     |   NetLogo             |   MSSQL Server        |<br/>
