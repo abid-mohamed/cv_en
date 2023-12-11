@@ -1,15 +1,15 @@
 # Mohamed ABID
 
-## SKILLS
+# SKILLS
 
 |&emsp;**R** &emsp;&emsp;&emsp;&emsp;|&emsp;**JSON**&emsp;&emsp;&emsp;&emsp; &emsp; |&emsp;**Ensemble Model**&emsp;&emsp;&emsp;|&emsp;**Survival Analysis** <br/>
 |&emsp;**Python** &emsp; |&emsp;**Neo4j**&emsp;&emsp;&emsp;&emsp;&emsp; |&emsp;**Machine Learning** &emsp; &emsp;|&emsp;**Data Visualization** <br/>
 |&emsp;**SQL**&emsp;&emsp;&emsp;|&emsp;**MatLab** &emsp;&emsp;&emsp;&emsp; |&emsp;**Time Series Analysis**&emsp;|&emsp;**Data Manipulation** <br/>
 |&emsp;**NetLogo**&emsp;|&emsp;**MSSQL Server**&emsp;|&emsp;**Probability Statistics**&emsp;|&emsp;**Data Cleaning** <br/>
 
-## INTERNSHIP
+# INTERNSHIP
 
-### King Abdullah University of Science and Technology (KAUST) <br/> _Data Scientist_
+## King Abdullah University of Science and Technology (KAUST) <br/> _Data Scientist_
 **_12/2022 - 05/2023_**
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
@@ -27,9 +27,9 @@ Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o***
 
 **Tools:** Executed the project using **R** and employed various packages, including ***terra***, ***raster***, ***h2o***, ***rsample***, ***recipes***, ***data.table***, ***tidyverse***, ***pROC***, ***doParallel***, ***doSNOW***, ***ggplot2***, ***tidyterra***.
 
-## PROJECTS
+# PROJECTS
 
-### Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
+## Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
 
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
@@ -42,7 +42,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
 
 > **NOTE:** For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
-### Covariate Impact Analysis and Variable Selection <br/> _(Machine Learning)_
+## Covariate Impact Analysis and Variable Selection <br/> _(Machine Learning)_
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
 
@@ -62,7 +62,7 @@ The objective of this project was to assess the influence of covariate variables
 
 **Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
 
-### Database Synchronization using Python and *pyodbc* <br/> _Data Wrangling with SQL_
+## Database Synchronization using Python and *pyodbc* <br/> _Data Wrangling with SQL_
 
 This project involves creating a **Python** script to interact with a database server and retrieve the latest version of a specified table. 
 The script uses the ***pyodbc*** package for secure connections to an **MSSQL Server** and communicates with the database by executing queries.
@@ -75,10 +75,26 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
-### Data Retrieval from MSSQL Server <br/> _Data Wrangling with SQL_
+## Data Retrieval from MSSQL Server <br/> _Data Wrangling with SQL_
 
 This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
 
 **Key Features:**
 - **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
+
+## Photon Propagation Simulation <br/> _Agent Base Modeling_
+
+Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
+
+**Simulation Features:**
+  - Implemented a light source emitting photons with random directions, simulating barrier hits, surface reflections, and particle collisions.
+  - Explored four water types (“Pure-Sea”, “Clear-Ocean”, “Coastal”, and “Turbid-Harbor”) with distinct absorption and scattering coefficients.
+
+**User Interface:** 
+  - Designed an intuitive interface for water type selection, photon count adjustment, and photo-detector positioning.
+  - Real-time visualization provided immediate insights into photon behavior and total received energy.
+
+**Parameter Exploration:** Enabled experimentation through sliders for adjusting parameters like beamwidth and photo-detector position.
+
+**Tools:** Implemented using NetLogo programming language for an interactive and accessible user experience.
