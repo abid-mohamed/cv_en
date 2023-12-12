@@ -140,22 +140,22 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 # EDUCATION
 
-## 03/2020 - 10/2023: Data ScienceTech Institute - France 
+### 03/2020 - 10/2023: Data ScienceTech Institute - France 
 ***Applied Msc in Data Science and AI***
 
 Mention : First Class / Summa Cum Laude (Grade 95 \| A+)
 
-## 26/12/2021: Neo4j Certified Professional
+### 26/12/2021: Neo4j Certified Professional
  
 **Certificate number: 17336311** [*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
-## 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
+### 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
 **English courses - level 11.**
 
-## 2010 - 2013: Faculty of Business and Economics of Sfax - Tunisia
+### 2010 - 2013: Faculty of Business and Economics of Sfax - Tunisia
 **Bsc in Computer Science Applied to Management**
 
-## 1999 - 2006: Faculty of Sciences of Sfax - Tunisia
+### 1999 - 2006: Faculty of Sciences of Sfax - Tunisia
 **Bsc in Applied Mathematics**
 
 # LANGUAGES
