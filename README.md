@@ -9,8 +9,8 @@
 
 # INTERNSHIP
 
-## King Abdullah University of Science and Technology (KAUST) <br/> _Data Scientist_
-**_12/2022 - 05/2023_**
+## King Abdullah University of Science and Technology (KAUST)
+**_12/2022 - 05/2023: Data Scientist_**
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
 Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o*** for data processing, exploratory data analysis, and ensemble modeling.
