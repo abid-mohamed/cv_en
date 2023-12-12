@@ -1,9 +1,9 @@
-[<img align="left" alt="pdf" width="85px" src="./doc/ma1.png" />](https://github.com/abid-mohamed?tab=repositories) 
+[<img align="left" alt="pdf" width="80px" src="./doc/ma1.png" />](https://github.com/abid-mohamed?tab=repositories) 
 
 # Mohamed ABID [<img align="right" alt="pdf" width="50px" src="./doc/pdf2.png" />](/doc/CV_Mohamed_ABID.pdf)
 <img alt="pdf" width="20px" src="./doc/email2.png" />&emsp;[abid.med@gmail.com](mailto:abid.med@gmail.com) 
 &emsp;&emsp;<img alt="pdf" width="20px" src="./doc/smartphone.png" />&emsp;+966 56 858 8370
-&emsp;&emsp;<img alt="pdf" width="20px" src="./doc/linkedin.png" />&emsp;[www.linkedin.com/in/med-abid](http://www.linkedin.com/in/med-abid) 
+&emsp;&emsp;<img alt="pdf" width="20px" src="./doc/linkedin.png" />&emsp;[linkedin.com/in/med-abid](http://www.linkedin.com/in/med-abid) 
 
 
 
