@@ -42,7 +42,8 @@ Developed predictive models for daily “electricity consumption” in a buildin
 
 > **NOTE:** For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
-## Covariate Impact Analysis and Variable Selection <br/> _(Machine Learning)_
+## Covariate Impact Analysis and Variable Selection <br/> 
+**_(Machine Learning)_**
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
 
