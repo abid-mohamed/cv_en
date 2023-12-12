@@ -147,7 +147,7 @@ Mention : First Class / Summa Cum Laude (Grade 95 \| A+)
 
 ## 26/12/2021: Neo4j Certified Professional
  
-**Certificate number: 17336311** <br/> [*https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
+**Certificate number: 17336311** [*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
 ## 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
 **English courses - level 11.**
