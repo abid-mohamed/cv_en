@@ -137,7 +137,7 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 ## 03/2020 - 10/2023: Data ScienceTech Institute - France 
 ***Applied Msc in Data Science and AI***
 
-Mention : First Class / Summa Cum Laude (Grade 95 | A+)
+Mention : First Class / Summa Cum Laude (Grade 95 \| A+)
 
 ## 26/12/2021: Neo4j Certified Professional
  
