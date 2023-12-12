@@ -125,3 +125,32 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
   - Created and updated production planning, providing valuable insights to the management team.
   - Automated the generation of detailed reports for each production order, enhancing communication with the production unit.
 - Export Documentation: Automated the preparation of invoices and essential financial and customs documents for weekly export operations
+
+# PUBLICATION
+
+- **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”, (submission) Aug, 2023 in **Environmetrics Journal**.
+
+- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: *https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*
+
+# EDUCATION
+
+## 03/2020 - 10/2023: Data ScienceTech Institute - France 
+***Applied Msc in Data Science and AI***
+
+Mention : First Class / Summa Cum Laude (Grade 95 | A+)
+
+## 26/12/2021: Neo4j Certified Professional
+ 
+**Certificate number: 17336311** <br/>  _https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf_
+
+## 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
+**English courses - level 11.**
+
+## 2010 - 2013: Faculty of Business and Economics of Sfax - Tunisia
+**Bsc in Computer Science Applied to Management**
+
+## 1999 - 2006: Faculty of Sciences of Sfax - Tunisia
+**Bsc in Applied Mathematics**
+
+# LANGUAGES
+**Arabic (native), English, French**
