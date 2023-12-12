@@ -1,4 +1,7 @@
-# Mohamed ABID &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![pdf](/doc/pdf2.png)](/doc/CV_Mohamed_ABID.pdf)
+<img align="right" src="./doc/pdf2.png" width="10%" >
+
+# Mohamed ABID
+<br clear="right"/>
 
 # SKILLS
 
