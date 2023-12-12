@@ -7,6 +7,17 @@
 |&emsp;**SQL**&emsp;&emsp;&emsp;|&emsp;**MatLab** &emsp;&emsp;&emsp;&emsp; |&emsp;**Time Series Analysis**&emsp;|&emsp;**Data Manipulation** <br/>
 |&emsp;**NetLogo**&emsp;|&emsp;**MSSQL Server**&emsp;|&emsp;**Probability Statistics**&emsp;|&emsp;**Data Cleaning** <br/>
 
+# EDUCATION
+
+**Applied Msc in Data Science and AI**  <br/>
+Data ScienceTech Institute, France _(October 2023)_ 
+
+**Bsc in Computer Science Applied to Management** <br/>
+Faculty of Business and Economics of Sfax, Tunisia _(September 2011)_
+
+**Bsc in Applied Mathematics** <br/>
+Faculty of Sciences of Sfax, Tunisia _(June 2006)_
+
 # INTERNSHIP
 
 ### King Abdullah University of Science and Technology (KAUST)
@@ -138,7 +149,9 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 - **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: [*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
 
-# EDUCATION
+# FORMATION
+
+- Neo4j Certified Professional
 
 ### 03/2020 - 10/2023: Data ScienceTech Institute - France 
 ***Applied Msc in Data Science and AI***
