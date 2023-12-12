@@ -3,7 +3,6 @@
 # Mohamed ABID [<img align="right" alt="pdf" width="50px" src="./doc/pdf2.png" />](/doc/CV_Mohamed_ABID.pdf)
 abid.med@gmail.com<br/>
 +966 56 858 8370<br/>
-
 <br clear="right"/>
 
 # SKILLS
