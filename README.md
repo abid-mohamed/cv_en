@@ -21,8 +21,8 @@ Faculty of Sciences of Sfax, Tunisia _(June 2006)_
 
 # INTERNSHIP
 
-### King Abdullah University of Science and Technology (KAUST)
-**_12/2022 - 05/2023: Data Scientist_**
+**Data Scientist - King Abdullah University of Science and Technology (KAUST)**  <br/>
+_(12/2022 - 05/2023)_
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
 Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o*** for data processing, exploratory data analysis, and ensemble modeling.
@@ -152,25 +152,11 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 # FORMATION
 
-- Neo4j Certified Professional
+**Neo4j Certified Professional** <br/>
+Certificate number: 17336311 _(26/12/2021)_ [*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
-### 03/2020 - 10/2023: Data ScienceTech Institute - France 
-***Applied Msc in Data Science and AI***
-
-Mention : First Class / Summa Cum Laude (Grade 95 \| A+)
-
-### 26/12/2021: Neo4j Certified Professional
- 
-**Certificate number: 17336311** [*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
-
-### 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
-**English courses - level 11.**
-
-### 2010 - 2013: Faculty of Business and Economics of Sfax - Tunisia
-**Bsc in Computer Science Applied to Management**
-
-### 1999 - 2006: Faculty of Sciences of Sfax - Tunisia
-**Bsc in Applied Mathematics**
+**Wall Street English of Jeddah - Saudi Arabia** <br/>
+English courses - level 11.
 
 # LANGUAGES
 **Arabic (native), English, French**
