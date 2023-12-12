@@ -39,8 +39,6 @@ Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o***
 
 **Tools:** Executed the project using **R** and employed various packages, including ***terra***, ***raster***, ***h2o***, ***rsample***, ***recipes***, ***data.table***, ***tidyverse***, ***pROC***, ***doParallel***, ***doSNOW***, ***ggplot2***, ***tidyterra***.
 
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/Mapping_the_Spatio-Temporal_Distribution_of_Fires_in_the_Amazon)
-
 # PROJECTS
 
 ### Electricity Consumption Forecasting
@@ -54,8 +52,6 @@ Developed predictive models for daily “electricity consumption” in a buildin
 **Tools:** Implemented in **R** using ***forecast***, ***keras***, ***vars***, ***xts***, ***ggplot2***, ***openxlsx*** packages.
 
 **Outcome:** Applied selected models to forecast “electricity consumption” using the entire dataset, showcasing the impact of temperature information on predictive accuracy
-
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
 ### Covariate Impact Analysis and Variable Selection
 **_Machine Learning_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-ASML)
@@ -78,8 +74,6 @@ The objective of this project was to assess the influence of covariate variables
 
 **Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
 
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/DSTI-ASML)
-
 ### Database Synchronization using Python and *pyodbc*
 **_Data Wrangling with SQL_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Software_Engineering_and_Data_Wrangling_with_SQL)
 
@@ -94,8 +88,6 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/DSTI-Software_Engineering_and_Data_Wrangling_with_SQL)
-
 ### Data Retrieval from MSSQL Server
 **_Data Wrangling with SQL_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Data_Wrangling_With_SQL)
 
@@ -104,8 +96,6 @@ This project focuses on extracting five types of information from a large **MSSQ
 **Key Features:**
 - **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
-
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/DSTI-Data_Wrangling_With_SQL)
 
 ### Photon Propagation Simulation
 **_Agent Base Modeling_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Agent_Base_Modelling)&emsp;|&emsp;[*Publication*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0)
@@ -124,8 +114,6 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
 
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/DSTI-Agent_Base_Modelling)
-
 ### Multivariate unimodular polynomial matrix completion
 **_Applied Mathematics_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Multivariate_Unimodular_Polynomial_Matrix_Completion)
 
@@ -134,8 +122,6 @@ The project focuses on solving a set of multinomial equations utilizing the mult
 **Algorithmic Approach:** Central to the algorithm is the identification of a **“Gröbner basis”**, a crucial step in simplifying the problem and transforming it into a one-variable polynomial solution.
 
 **Tools:** Implemented the project using **Maple**.
-
-> **NOTE:** For more details: [*GitHub link*](https://github.com/abid-mohamed/Multivariate_Unimodular_Polynomial_Matrix_Completion)
 
 # EXPERIENCE
 
