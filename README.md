@@ -43,7 +43,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
 > **NOTE:** For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
 ## Covariate Impact Analysis and Variable Selection <br/> 
-**_(Machine Learning)_**
+**_Machine Learning_**
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
 
@@ -131,7 +131,8 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 - **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”, (submission) Aug, 2023 in **Environmetrics Journal**.
 
-- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: *https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*
+- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/
+[*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
 
 # EDUCATION
 
@@ -142,7 +143,7 @@ Mention : First Class / Summa Cum Laude (Grade 95 \| A+)
 
 ## 26/12/2021: Neo4j Certified Professional
  
-**Certificate number: 17336311** <br/>  _https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf_
+**Certificate number: 17336311** <br/> [*https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
 ## 03/2019 - 09/2019: Wall Street English of Jeddah - Saudi Arabia
 **English courses - level 11.**
