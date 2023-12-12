@@ -1,4 +1,4 @@
-# Mohamed ABID &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![pdf](/doc/pdf2.png | width=30)](/doc/CV_Mohamed_ABID.pdf)
+# Mohamed ABID &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![pdf](/doc/pdf2.png)](/doc/CV_Mohamed_ABID.pdf)
 
 # SKILLS
 
