@@ -19,7 +19,7 @@ Faculty of Business and Economics of Sfax, Tunisia _(September 2011)_
 **Bsc in Applied Mathematics** <br/>
 Faculty of Sciences of Sfax, Tunisia _(June 2006)_
 
-# INTERNSHIP
+# INTERNSHIP ![Alt text](image.png)
 
 ## Data Scientist - King Abdullah University of Science and Technology (KAUST)  <br/>
 **_(12/2022 - 05/2023)_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Mapping_the_Spatio-Temporal_Distribution_of_Fires_in_the_Amazon)
