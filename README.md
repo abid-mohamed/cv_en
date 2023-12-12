@@ -29,7 +29,8 @@ Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o***
 
 # PROJECTS
 
-## Electricity Consumption Forecasting <br/>_(Time Series Analysis)_
+## Electricity Consumption Forecasting
+**_(Time Series Analysis)_**
 
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
@@ -42,7 +43,7 @@ Developed predictive models for daily “electricity consumption” in a buildin
 
 > **NOTE:** For more details GitHub [*link*](https://github.com/abid-mohamed/DSTI-Time_Series_Analysis)
 
-## Covariate Impact Analysis and Variable Selection <br/> 
+## Covariate Impact Analysis and Variable Selection
 **_Machine Learning_**
 
 The objective of this project was to assess the influence of covariate variables on a continuous response variable within two distinct datasets.
@@ -63,7 +64,8 @@ The objective of this project was to assess the influence of covariate variables
 
 **Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
 
-## Database Synchronization using Python and *pyodbc* <br/> _(Data Wrangling with SQL)_
+## Database Synchronization using Python and *pyodbc*
+**_(Data Wrangling with SQL)_**
 
 This project involves creating a **Python** script to interact with a database server and retrieve the latest version of a specified table. 
 The script uses the ***pyodbc*** package for secure connections to an **MSSQL Server** and communicates with the database by executing queries.
@@ -76,7 +78,8 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
-## Data Retrieval from MSSQL Server <br/> _(Data Wrangling with SQL)_
+## Data Retrieval from MSSQL Server
+**_(Data Wrangling with SQL)_**
 
 This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
 
@@ -84,7 +87,8 @@ This project focuses on extracting five types of information from a large **MSSQ
 - **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
 
-## Photon Propagation Simulation <br/> _(Agent Base Modeling)_
+## Photon Propagation Simulation
+**_(Agent Base Modeling)_**
 
 Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
 
@@ -100,7 +104,8 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
 
-## Multivariate unimodular polynomial matrix completion <br/> _(Applied Mathematics)_
+## Multivariate unimodular polynomial matrix completion
+**_(Applied Mathematics)_**
 
 The project focuses on solving a set of multinomial equations utilizing the multivariate unimodular polynomial matrix completion, specifically employing the **Lombardi-Yengui algorithm**. The applications extend to addressing signal processing problems.
 
@@ -110,8 +115,8 @@ The project focuses on solving a set of multinomial equations utilizing the mult
 
 # EXPERIENCE
 
-## Company “Mhiri Confection” - Tunisia <br/> _ACCOUNTANT_
-***09/2009 - 09/2018***
+## Company “Mhiri Confection” - Tunisia 
+***09/2009 - 09/2018: ACCOUNTANT***
 
 As an accountant for a workwear clothes manufacturer, I played a pivotal role in optimizing and automating critical processes to enhance efficiency and meet stringent deadlines. 
 My focus extended beyond traditional accounting responsibilities, as I leveraged programming skills to introduce automation using **MatLab**. 
@@ -131,8 +136,7 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 - **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”, (submission) Aug, 2023 in **Environmetrics Journal**.
 
-- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/
-[*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
+- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: [*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
 
 # EDUCATION
 
