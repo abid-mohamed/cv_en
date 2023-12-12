@@ -106,3 +106,22 @@ The project focuses on solving a set of multinomial equations utilizing the mult
 **Algorithmic Approach:** Central to the algorithm is the identification of a **“Gröbner basis”**, a crucial step in simplifying the problem and transforming it into a one-variable polynomial solution.
 
 **Tools:** Implemented the project using **Maple**.
+
+# EXPERIENCE
+
+## Company “Mhiri Confection” - Tunisia <br/> _ACCOUNTANT_
+***09/2009 - 09/2018***
+
+As an accountant for a workwear clothes manufacturer, I played a pivotal role in optimizing and automating critical processes to enhance efficiency and meet stringent deadlines. 
+My focus extended beyond traditional accounting responsibilities, as I leveraged programming skills to introduce automation using **MatLab**. 
+
+**Key Contributions:**
+- Invoicing and Payment Management: Managed invoicing and tracked foreign customer payments efficiently.
+- Automated Document Preparation: 
+  - Developed and implemented **MatLab** programs to automate the generation of administrative documents on a weekly basis.
+  - Transformed customer information into a structured **MatLab** dataset for seamless data processing.
+- Data Wrangling and Reporting:
+  - Utilized **MatLab** for data wrangling, seamlessly integrating datasets into **Excel** files.
+  - Created and updated production planning, providing valuable insights to the management team.
+  - Automated the generation of detailed reports for each production order, enhancing communication with the production unit.
+- Export Documentation: Automated the preparation of invoices and essential financial and customs documents for weekly export operations
