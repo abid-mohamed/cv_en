@@ -30,7 +30,7 @@ Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o***
 # PROJECTS
 
 ## Electricity Consumption Forecasting
-**_(Time Series Analysis)_**
+**_Time Series Analysis_**
 
 Developed predictive models for daily “electricity consumption” in a building based on 47 days of historical data. The dataset included “outdoor air temperature”, influencing two distinct approaches:
 
@@ -65,7 +65,7 @@ The objective of this project was to assess the influence of covariate variables
 **Outcome:** The project resulted in a comprehensive understanding of covariate impacts through rigorous variable selection methods. The utilization of diverse techniques showcased my proficiency in statistical modeling and data analysis using the **R** programming language.
 
 ## Database Synchronization using Python and *pyodbc*
-**_(Data Wrangling with SQL)_**
+**_Data Wrangling with SQL_**
 
 This project involves creating a **Python** script to interact with a database server and retrieve the latest version of a specified table. 
 The script uses the ***pyodbc*** package for secure connections to an **MSSQL Server** and communicates with the database by executing queries.
@@ -88,7 +88,7 @@ This project focuses on extracting five types of information from a large **MSSQ
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
 
 ## Photon Propagation Simulation
-**_(Agent Base Modeling)_**
+**_Agent Base Modeling_**
 
 Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
 
@@ -105,7 +105,7 @@ Developed a simulation model to study photon behavior in a water tank and assess
 **Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
 
 ## Multivariate unimodular polynomial matrix completion
-**_(Applied Mathematics)_**
+**_Applied Mathematics_**
 
 The project focuses on solving a set of multinomial equations utilizing the multivariate unimodular polynomial matrix completion, specifically employing the **Lombardi-Yengui algorithm**. The applications extend to addressing signal processing problems.
 
