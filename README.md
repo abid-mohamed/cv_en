@@ -127,7 +127,7 @@ The project focuses on solving a set of multinomial equations utilizing the mult
 
 # EXPERIENCE
 
-### Company “Mhiri Confection” - Tunisia 
+### Company “Mhiri Confection”, Tunisia 
 ***09/2009 - 09/2018: ACCOUNTANT***
 
 As an accountant for a workwear clothes manufacturer, I played a pivotal role in optimizing and automating critical processes to enhance efficiency and meet stringent deadlines. 
@@ -155,7 +155,7 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 **Neo4j Certified Professional** <br/>
 Certificate number: 17336311 _(26/12/2021)_ [*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
-**Wall Street English of Jeddah - Saudi Arabia** <br/>
+**Wall Street English of Jeddah, Saudi Arabia** <br/>
 English courses - level 11.
 
 # LANGUAGES
