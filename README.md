@@ -91,7 +91,7 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
 ### Data Retrieval from MSSQL Server
-**_(Data Wrangling with SQL)_**
+**_Data Wrangling with SQL_**
 
 This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
 
