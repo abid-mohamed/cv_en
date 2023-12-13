@@ -1,4 +1,4 @@
-[<img align="left" alt="pdf" width="80px" src="./doc/ma2.png" />](https://github.com/abid-mohamed?tab=repositories) 
+[<img align="left" alt="pdf" width="80px" src="./doc/ma3.png" />](https://github.com/abid-mohamed?tab=repositories) 
 
 # Mohamed ABID [<img align="right" alt="pdf" width="50px" src="./doc/pdf2.png" />](/doc/CV_Mohamed_ABID.pdf)
 <img alt="pdf" width="20px" src="./doc/email.png" /> [abid.med@gmail.com](mailto:abid.med@gmail.com) 
