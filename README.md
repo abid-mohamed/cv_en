@@ -161,7 +161,7 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 Certificate number: 17336311 _(26/12/2021)_&emsp;|&emsp;[*link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
-English courses - level 11.
+English courses - level 11 _(March 2019 - September 019)_.
 
 # LANGUAGES
 **Arabic (native), English, French**
