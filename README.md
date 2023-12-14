@@ -115,7 +115,7 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **User Interface:** 
   - Designed an intuitive interface for water type selection, photon count adjustment, and photo-detector positioning.
-  - Real-time visualization provided immediate insights into photon behavior and total received energy.
+  - Real-time visualization provided immediate insights into photon behavior and **total received energy**.
 
 **Parameter Exploration:** Enabled experimentation through sliders for adjusting parameters like beamwidth and photo-detector position.
 
@@ -133,7 +133,7 @@ The project focuses on solving a set of multinomial equations utilizing the mult
 # EXPERIENCE
 
 ## Company “Mhiri Confection”, Tunisia 
-***09/2009 - 09/2018: ACCOUNTANT***
+***09/2009 - 09/2018: Accountant***
 
 As an accountant for a workwear clothes manufacturer, I played a pivotal role in optimizing and automating critical processes to enhance efficiency and meet stringent deadlines. 
 My focus extended beyond traditional accounting responsibilities, as I leveraged programming skills to introduce automation using **MatLab**. 
