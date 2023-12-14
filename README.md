@@ -120,7 +120,7 @@ This project focuses on extracting five types of information from a large **MSSQ
 **Key Features:**
 - **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
 - **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
-- 
+
 ## Multivariate unimodular polynomial matrix completion
 **_Applied Mathematics_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Multivariate_Unimodular_Polynomial_Matrix_Completion)
 
