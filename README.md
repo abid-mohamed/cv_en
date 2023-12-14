@@ -95,15 +95,6 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
-## Data Retrieval from MSSQL Server
-**_Data Wrangling with SQL_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Data_Wrangling_With_SQL)
-
-This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
-
-**Key Features:**
-- **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
-- **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
-
 ## Photon Propagation Simulation
 **_Agent Base Modeling_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Agent_Base_Modelling)&emsp;|&emsp;[*Publication*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0)
 
@@ -121,6 +112,15 @@ Developed a simulation model to study photon behavior in a water tank and assess
 
 **Tools:** Implemented using **NetLogo** programming language for an interactive and accessible user experience.
 
+## Data Retrieval from MSSQL Server
+**_Data Wrangling with SQL_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Data_Wrangling_With_SQL)
+
+This project focuses on extracting five types of information from a large **MSSQL Server** database through well-designed SQL queries. 
+
+**Key Features:**
+- **Data Extraction Goals:** The project aims to obtain five distinct types of information from the extensive MSSQL Server database.
+- **Query Techniques:** Standard **SQL** Queries, **Division SQL** Queries, and **Dynamic SQL** Queries with **T-SQL stored procedure**.
+- 
 ## Multivariate unimodular polynomial matrix completion
 **_Applied Mathematics_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Multivariate_Unimodular_Polynomial_Matrix_Completion)
 
