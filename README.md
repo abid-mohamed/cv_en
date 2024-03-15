@@ -29,7 +29,7 @@ Faculty of Sciences of Sfax, Tunisia _(June 2006)_
 # INTERNSHIP
 
 ## Data Scientist - King Abdullah University of Science and Technology (KAUST)  <br/>
-**_(12/2022 - 05/2023)_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Mapping_the_Spatio-Temporal_Distribution_of_Fires_in_the_Amazon)
+**_(12/2022 - 05/2023)_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/Mapping_the_Spatio-Temporal_Distribution_of_Burned_Areas_in_the_Amazon)
 
 Conducted a comprehensive analysis of a raster-based dataset encompassing spatio-temporal information on forest fires in the Amazon from 2001 to 2020. <br/>
 Utilized **R** and key packages such as ***terra***, ***raster***, and ***h2o*** for data processing, exploratory data analysis, and ensemble modeling.
