@@ -149,13 +149,13 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
   - Automated the generation of detailed reports for each production order, enhancing communication with the production unit.
 - Export Documentation: Automated the preparation of invoices and essential financial and customs documents for weekly export operations
 
-# PUBLICATION
+# PUBLICATIONS
 
 - **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”, (submission) Aug, 2023 in **Environmetrics Journal**.
 
 - **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: [*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
 
-# FORMATION
+# CERTIFICATIONS
 
 **Neo4j Certified Professional** <br/>
 Certificate number: 17336311 _(26/12/2021)_&emsp;|&emsp;[*Download link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
