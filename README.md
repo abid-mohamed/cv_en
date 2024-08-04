@@ -157,6 +157,9 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 
 # CERTIFICATIONS
 
+**Deep Learning Specialization** <br/>
+Coursera (Deeplearning.ai) _(04/08/2024)_&emsp;|&emsp;[*Coursera certificate link*](https://coursera.org/share/d62fc15110c819e787b0cd5c7e435600)
+
 **Neo4j Certified Professional** <br/>
 Certificate number: 17336311 _(26/12/2021)_&emsp;|&emsp;[*Download link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
 
