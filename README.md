@@ -161,7 +161,7 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 Coursera (Deeplearning.ai) _(04/08/2024)_&emsp;|&emsp;[*Coursera certificate link*](https://coursera.org/share/d62fc15110c819e787b0cd5c7e435600)
 
 **Neo4j Certified Professional** <br/>
-Certificate number: 17336311 _(26/12/2021)_&emsp;|&emsp;[*Download link*](https://graphacademy.neo4j.com/certificates/db64f7427c53c75dd4513e6ccfbc9df2d6a1216f9e71e1110b3e501959a34cf4.pdf)
+Certificate number: 17336311 _(26/12/2021)_&emsp;|&emsp;[*Certificate link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf)
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
 English courses - level 11 _(March 2019 - September 2019)_.
