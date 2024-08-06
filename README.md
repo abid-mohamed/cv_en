@@ -166,7 +166,7 @@ _(26/12/2021)_&emsp;Neo4j&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 Credential ID: 17336311
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
-_(March 2019 - September 2019)_ English courses - level 11.
+_(03/2019 - 09/2019)_ English courses - level 11.
 
 # LANGUAGES
 **Arabic (native), English, French**
