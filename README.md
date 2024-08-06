@@ -164,7 +164,7 @@ _(04/08/2024)_&emsp;Coursera (Deeplearning.ai) Credential ID: 2X6Y6T0E53O0&emsp;
 _(26/12/2021)_&emsp;Credential ID: 17336311&emsp;|&emsp;[*PDF link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf)
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
-English courses - level 11 _(March 2019 - September 2019)_.
+_(March 2019 - September 2019)_&emsp;English courses - level 11.
 
 # LANGUAGES
 **Arabic (native), English, French**
