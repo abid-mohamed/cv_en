@@ -158,13 +158,15 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
 # CERTIFICATIONS
 
 **Deep Learning Specialization** <br/>
-_(04/08/2024)_&emsp;Coursera (Deeplearning.ai) Credential ID: 2X6Y6T0E53O0&emsp;|&emsp;[*Coursera certificate link*](https://coursera.org/share/d62fc15110c819e787b0cd5c7e435600)
+Coursera (Deeplearning.ai) &emsp;_(04/08/2024)_&emsp;|&emsp;[*Coursera certificate link*](https://coursera.org/share/d62fc15110c819e787b0cd5c7e435600)
+Credential ID: 2X6Y6T0E53O0
 
 **Neo4j Certified Professional** <br/>
-_(26/12/2021)_&emsp;Credential ID: 17336311&emsp;|&emsp;[*PDF link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf)
+Neo4j &emsp;&emsp;_(26/12/2021)_&emsp;|&emsp;[*PDF link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf)
+Credential ID: 17336311
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
-_(March 2019 - September 2019)_&emsp;English courses - level 11.
+&emsp;English courses - level 11. _(March 2019 - September 2019)_
 
 # LANGUAGES
 **Arabic (native), English, French**
