@@ -162,7 +162,7 @@ _(04/08/2024)_&emsp;Coursera (Deeplearning.ai)&emsp;|&emsp;[*Coursera certificat
 Credential ID: 2X6Y6T0E53O0
 
 **Neo4j Certified Professional** <br/>
-_(26/12/2021)_&emsp;Neo4j&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;[*PDF link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf) <br/>
+_(26/12/2021)_&emsp;Neo4j&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;[*PDF link*](https://github.com/abid-mohamed/cv_en/blob/311ff0a737bbd350d953be95eb76b6b0b13c2ffe/doc/Neo4j.pdf) <br/>
 Credential ID: 17336311
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
