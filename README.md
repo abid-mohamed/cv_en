@@ -18,7 +18,7 @@
 
 **Applied Msc in Data Science and AI**  <br/>
 Data ScienceTech Institute, France _(October 2023)_  <br/>
-_Mention : First Class / Summa Cum Laude (Grade 95 \| A+)_
+_Mention : First Class / Summa Cum Laude (Grade 95/100 \| A+)_
 
 **Bsc in Computer Science Applied to Management** <br/>
 Faculty of Business and Economics of Sfax, Tunisia _(September 2011)_
