@@ -23,6 +23,10 @@ Faculty of Business and Economics of Sfax, Tunisia _(September 2011)_
 **Bsc in Applied Mathematics** <br/>
 Faculty of Sciences of Sfax, Tunisia _(June 2006)_
 
+# PUBLICATION UNDER REVIEW
+
+- **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”. Submitted to **Environmetrics Journal**.
+
 # INTERNSHIP
 
 ## Data Scientist - King Abdullah University of Science and Technology (KAUST)  <br/>
@@ -146,12 +150,6 @@ My focus extended beyond traditional accounting responsibilities, as I leveraged
   - Automated the generation of detailed reports for each production order, enhancing communication with the production unit.
 - Export Documentation: Automated the preparation of invoices and essential financial and customs documents for weekly export operations
 
-# PUBLICATIONS
-
-- **Mohamed Abid**, Jonatan A. Gonález, Óscar Rodríguez de Rivera, and Paula Moraga “Mapping the Spatio-Temporal Distribution of Fires in the Amazon from 2001 to 2020: An Ensemble Modeling Approach”, (submission) Aug, 2023 in **Environmetrics Journal**.
-
-- **Mohamed ABID** (2022, May 29). “ABM for Underwater optical wireless communication in a water tank” (Version 1.0.0). **CoMSES Computational Model Library**. Retrieved from: [*https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0/)
-
 # CERTIFICATIONS
 
 **Deep Learning Specialization** <br/>
@@ -163,7 +161,7 @@ _(26/12/2021)_&emsp;Neo4j&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&
 Credential ID: 17336311
 
 **Wall Street English of Jeddah, Saudi Arabia** <br/>
-_(03/2019 - 09/2019)_ English courses - level 11.
+_(03/2019 - 09/2019)_ English courses - 11 / Intermediate level.
 
 # LANGUAGES
 **Arabic (native), English, French**
