@@ -93,7 +93,7 @@ The script uses the ***pyodbc*** package for secure connections to an **MSSQL Se
 This project streamlines the process of keeping a local copy of a specific database table current, enhancing efficiency in data retrieval and utilization.
 
 ## Photon Propagation Simulation
-**_Agent Base Modeling_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Agent_Base_Modelling)&emsp;|&emsp;[*Publication*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0)
+**_Agent Base Modeling_**&emsp;|&emsp;[*GitHub link*](https://github.com/abid-mohamed/DSTI-Agent_Base_Modelling)&emsp;|&emsp;[*CoMSES link*](https://www.comses.net/codebases/23ce38af-ae87-47bf-b9e3-2523a54fe1a1/releases/1.0.0)
 
 Developed a simulation model to study photon behavior in a water tank and assess the influence of water characteristics on energy propagation.
 
